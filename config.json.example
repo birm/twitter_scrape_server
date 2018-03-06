@@ -1,0 +1,7 @@
+{
+    "consumer_key": "1",
+    "consumer_secret": "1",
+    "access_token_key": "1",
+    "access_token_secret": "1",
+    "tweet_limit": 50
+}
